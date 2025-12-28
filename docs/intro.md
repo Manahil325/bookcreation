@@ -1,0 +1,7 @@
+Introduction: ROS 2 as the Nervous System of a Robot
+
+Modern robots are complex systems composed of many independent parts such as sensors, actuators, controllers, and decision-making algorithms. For a robot to function intelligently, these components must communicate, coordinate, and respond to changes in the environment efficiently. This is where ROS 2 (Robot Operating System 2) plays a vital role, often described as the nervous system of a robot.
+
+Just as the human nervous system connects the brain with muscles and sensory organs, ROS 2 provides a communication framework that links all robotic components together. It enables different software nodes to exchange data, process sensor information, make decisions, and execute actions in real time. Through mechanisms such as topics, services, actions, and parameters, ROS 2 allows robots to sense their surroundings, plan movements, and interact with the world in a coordinated manner.
+
+ROS 2 is an evolution of the original ROS, designed to meet the demands of modern robotics. It offers improved real-time performance, security, scalability, and reliability, making it suitable for industrial robots, autonomous vehicles, drones, and medical systems. By supporting distributed systems and multiple platforms, ROS 2 ensures that robotic “signals” flow smoothly, much like neural signals in a biological nervous system
